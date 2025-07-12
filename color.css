@@ -1,0 +1,11 @@
+body{
+    background-color: rgb(235, 231, 216);
+    text-align: center;
+}
+div{
+    height: 100px;
+    width: 500px;
+    border: 1px solid black;
+    margin: auto;
+
+}
